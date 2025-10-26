@@ -44,3 +44,7 @@ ffzap.com
 betterttv.net
 7tv.app
 7tv.io
+netmarble.com
+sgimage.netmarble.com
+apis.netmarble.com
+members.netmarble.com
